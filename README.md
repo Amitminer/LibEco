@@ -3,7 +3,7 @@
 **libEco is a PocketMine-MP virion that makes it easy to use the API of economy plugins!**
 
 ## Installation
-You can get the compiled .phar file on poggit by clicking [here](https://poggit.pmmp.io/ci/David-pm-pl/libEco/~).
+You can get the compiled .phar file on poggit by clicking [here](https://github.com/Amitminer/libEco/releases/download/stable/libEco_v4.0.0.phar).
 
 ## Supported Economy Plugins
 Currently, this library supports the following economy plugins:
