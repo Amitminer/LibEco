@@ -72,3 +72,6 @@ libEco::getAllBalance(10, 0, static function(bool $success, array $data) : void 
     }
 });
 ```
+# Note
+- this is fork version of [libEco by David](https://github.com/Taylor-pm-pl/libEco).
+
